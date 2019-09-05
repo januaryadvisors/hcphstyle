@@ -1,0 +1,19 @@
+Package: hcphstyle
+Type: Package
+Title: HCPH Styles for 2019 Report R Graphics
+Version: 0.1.0
+Author: David McClendon
+Maintainer: David McClendon <david@januaryadvisors.com>
+Description: Style guide for ggplot graphics.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Suggests: testthat
+Imports:
+  ggplot2,
+  png,
+  grid,
+  ggpubr,
+  dplyr,
+  data.table
+RoxygenNote: 6.1.1
