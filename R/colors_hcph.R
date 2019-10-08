@@ -5,12 +5,12 @@ hcph_colors <- c(
   `yellow` = "#f7c11c",
   `green` = "#5b9240",
 
-  `red1` = "#d8d7e7",
-  `red2` = "#afadce",
-  `red3` = "#8991ba",
-  `red4` = "#606da6",
-  `red5` = "#3b488f",
-  `red6` = "#27305e",
+  `red1` = "#fddfd5",
+  `red2` = "#fbc0af",
+  `red3` = "#ec9483",
+  `red4` = "#cf7565",
+  `red5` = "#cf3f27",
+  `red6` = "#95301f",
 
   `purple1` = "#d8d7e7",
   `purple2` = "#afadce",
@@ -19,12 +19,12 @@ hcph_colors <- c(
   `purple5` = "#3b488f",
   `purple6` = "#27305e",
 
-  `yellow1` = "#d8d7e7",
-  `yellow2` = "#afadce",
-  `yellow3` = "#8991ba",
-  `yellow4` = "#606da6",
-  `yellow5` = "#3b488f",
-  `yellow6` = "#27305e",
+  `yellow1` = "#fcf0d7",
+  `yellow2` = "#fdf5a1",
+  `yellow3` = "#f9e289",
+  `yellow4` = "#fde045",
+  `yellow5` = "#f7c11c",
+  `yellow6` = "#b68c2e",
 
   `green1` = "#b7dea4",
   `green2` = "#5b9240"
