@@ -27,7 +27,7 @@ hcph_colors <- c(
   `yellow6` = "#27305e",
 
   `green1` = "#b7dea4",
-  `green2` = "#5b9240",
+  `green2` = "#5b9240"
 
   # `idis` = "#304a9f",
   # `mh`   = "#cf3f27",
